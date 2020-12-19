@@ -1,6 +1,18 @@
 # README
+ KEY PACKAGES REQUIRED FOR EXECUTION
+ Sklearn
+ scipy
+ cv2
+ PIL
+ numpy
+ matplotlib
+ seaborn
+ time
+ os
+ sys 
  
-The following folder comprises the foloiwng files:
+ 
+The following folder comprises the following files:
 -main.py
 -common_fucntions.py
 -training_examples.py
@@ -8,7 +20,7 @@ The following folder comprises the foloiwng files:
 ########################################
 main.py is the MAIN file for assessment. 
 ########################################
-common_fucntions.py and training_examples.py have funcitonality for execution of the tasks-specfic files...
+common_functions.py and training_examples.py have funcitonality for execution of the task-specific files...
 
 
 The folder also contains task-specific folders:
