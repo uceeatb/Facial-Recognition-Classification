@@ -2,6 +2,8 @@
 
 The following personal project includes a set of Python 3 executable facial recognition tasks (A1, A2, B1, B2), using binary or multiclass classification methods on two separate datasets.
 
+Project report: https://online.fliphtml5.com/srowp/vcet/#p=1
+
 # Contents:
 
 ## Main Scripts
